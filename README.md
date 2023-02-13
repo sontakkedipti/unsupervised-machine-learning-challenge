@@ -1,4 +1,4 @@
-# unsupervised-machine-learning-challenge
+# Unsupervised-Machine-Learning-Challenge
 <br>Description<br>
 Using unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups of patients with or without myopia. Then, created a visualization that shares the finding.
 Background
